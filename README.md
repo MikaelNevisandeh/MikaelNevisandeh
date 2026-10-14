@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi! I'm Mikael 
 
-<!--
-**MikaelNevisandeh/MikaelNevisandeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a BSc Cybersecurity and Digital Forensics student at Middlesex University. I love solving puzzles, analyzing how systems work, and writing clean Python code to automate security tasks and build personal projects.
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I keep my university coursework and my independent coding projects completely separate and organized so they are easy to navigate. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm Working On
+University Modules:  Building my foundations in computer systems and network security labs.
+Python Scripts:   Building standalone tools (like password checkers and logic games) to strengthen my scripting fundamentals.
+Future Focus:  Preparing for advanced modules in digital forensics and cyber defense by mastering core coding today.
+
+Explore My Projects
+* [Password Checker](https://github.com) – A standalone script practicing secure input and string logic.
+* [Guessing Game](https://github.com) – A Python control-flow program built to master loops and conditional statements.
+* [Uni Coursework Hub](https://github.com) – Dedicated repository for my academic programming modules.
+
+Let's Connect! 
+Feel free to explore my repositories or reach out if you want to chat about Python, security, or university life.
